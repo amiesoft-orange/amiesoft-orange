@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 <img src="https://github.com/amiesoft-orange/amiesoft-orange/blob/output/github-contribution-grid-snake.svg"/>
 <!--
 **amiesoft-orange/amiesoft-orange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
